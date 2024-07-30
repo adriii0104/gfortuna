@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<templates id="pos_kot_print_template" inherit_id="point_of_sale.template" xml:space="preserve">
+
+	<t t-name="KotTicket" owl="1">
+		<div class="pos-receipt-container">
+			<div class="pos-receipt-center-align" style="text-align:center;">
+			 	<t t-esc="env.pos.get_order().formatted_validation_date"/> <t t-esc="env.pos.get_order().name"/>
+				<t t-if="env.pos.config.is_table_management">
+				 	<div class="receipt-phone">
+				 		Floor : <t t-esc="env.pos.get_order().table.floor_id[1] || ''"/><br />
+					</div>
+					<div class="receipt-user">
+						Table : <t t-esc="env.pos.get_order().table.name"/><br />
+					</div>
+				</t>
+				<div class="receipt-user">
+					Waiter : <t t-esc="env.pos.pos_session.user_id[1]"/><br />
+				</div>
+				<br/>
+				<t t-if="count !== 0">
+					<table class='receipt-orderlines' align="center;">
+						<colgroup>
+							<col width='10%'/>
+							<col width='50%'/>
+						</colgroup>
+						<th style = "text-align : left;">Product</th>
+						<th style = "text-align : right;">Units</th>
+						<tr t-foreach="env.pos.get_order().get_orderlines()" t-as="orderline">
+							<t t-if="orderline.kot_print">
+								<td class="pos-right-align" style = "text-align : left;">
+									<t t-esc="orderline.get_product().display_name" />
+								</td>
+								<td class="pos-right-align">
+									<t t-esc="orderline.get_quantity_str_with_unit()" class="pos-receipt-right-align"/>
+								</td>
+							</t>
+						</tr>
+					</table>
+				</t>
+				<t t-if = "count == 0 ">
+					<div style = "text-align:center;">No Kitchen Order Available</div>
+				</t>
+			</div>
+		</div>
+	</t>
+</templates>

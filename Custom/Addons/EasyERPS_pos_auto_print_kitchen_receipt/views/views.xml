@@ -1,0 +1,29 @@
+<odoo>
+  <data>
+    <!-- Definición de la vista personalizada -->
+    <record id="pos_config_view_form_inherit_pos" model="ir.ui.view">
+      <field name="name">res.config.settings.form.inherit.pos</field>
+      <field name="model">res.config.settings</field>
+      <field name="inherit_id" ref="point_of_sale.res_config_settings_view_form"/>
+      <field name="arch" type="xml">
+        <!-- Insertar elementos después de auto_printing -->
+        <xpath expr="//field[@name='auto_printing']" position="after">
+          <div class="content-group mt16">
+            <field name="kitchen_print_auto" class="oe_inline"/>
+            <label for="kitchen_print_auto"/>
+            <span><b>Print Kitchen receipts automatically once the payment is registered</b></span>
+          </div>
+        </xpath>
+        
+        <!-- Insertar elementos después de is_order_printer -->
+        <xpath expr="//field[@name='pos_is_order_printer']" position="after">
+          <div class="content-group mt16">
+            <field name="kitchen_print" class="oe_inline"/>
+            <label for="kitchen_print"/>
+            <span><b>Show Print kitchen receipt Button on Receipt Screen</b></span>
+          </div>
+        </xpath>
+      </field>
+    </record>
+  </data>
+</odoo>

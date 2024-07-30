@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<odoo>
+    <data>
+        <!-- Vista Tree para barberia.ventas.categoria -->
+        <record id="view_x_barberia_ventas_categoria_tree" model="ir.ui.view">
+            <field name="name">barberia.ventas.categoriatree</field>
+            <field name="model">barberia.ventas.categoria</field>
+            <field name="arch" type="xml">
+                <tree string="Ventas por Categoría">
+                    <field name="fecha"/>
+                    <field name="barbero"/>
+                    <field name="cliente_atendido"/>
+                    <field name="monto_generado" sum="Total"/>
+                </tree>
+            </field>
+        </record>
+
+        <!-- Vista de búsqueda para barberia.ventas.categoria -->
+        <record id="view_x_barberia_ventas_categoria_search" model="ir.ui.view">
+            <field name="name">barberia.ventas.categoria.search</field>
+            <field name="model">barberia.ventas.categoria</field>
+            <field name="arch" type="xml">
+                <search string="Buscar Ventas por Categoría">
+                    <field name="fecha"/>
+                    <field name="barbero"/>
+                    <filter string="Hoy" name="today" domain="[('fecha', '=', context_today())]"/>
+                </search>
+            </field>
+        </record>
+        
+
+        <!-- Acción para abrir la vista -->
+        <record id="action_x_barberia_ventas_categoria" model="ir.actions.act_window">
+            <field name="name">Ganancias barberos</field>
+            <field name="res_model">barberia.ventas.categoria</field>
+            <field name="view_mode">tree</field>
+            <field name="view_id" ref="view_x_barberia_ventas_categoria_tree"/>
+            <field name="search_view_id" ref="view_x_barberia_ventas_categoria_search"/>
+        </record>
+
+        <!-- Menú para acceder a la vista -->
+        <menuitem id="menu_x_barberia_ventas_categoria" name="Ventas por Categoría" action="action_x_barberia_ventas_categoria"/>
+    </data>
+</odoo>

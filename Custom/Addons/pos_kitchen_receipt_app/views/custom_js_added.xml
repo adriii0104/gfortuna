@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<odoo>
+    <template id="assets_for_pos_kot_print" inherit_id="point_of_sale.assets">
+        <xpath expr="." position="inside">
+        	<script type="text/javascript" src="/pos_kitchen_receipt_app/static/src/js/ControlButtons/PrintKotButton.js"/>
+        	<script type="text/javascript" src="/pos_kitchen_receipt_app/static/src/js/Screens/PrintKotButtonScreen.js"/>
+        	<script type="text/javascript" src="/pos_kitchen_receipt_app/static/src/js/Screens/KotTicket.js"/>
+            <script type="text/javascript" src="/pos_kitchen_receipt_app/static/src/js/pos.js"/>
+        </xpath>
+    </template>
+</odoo>

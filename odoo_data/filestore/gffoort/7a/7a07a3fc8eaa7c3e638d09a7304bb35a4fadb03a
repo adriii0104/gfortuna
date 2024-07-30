@@ -1,0 +1,1389 @@
+%PDF-1.4
+
+1 0 obj
+<<
+/Type /Pages
+/Count 0
+/Kids [ ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (Odoo)
+/Creator (Odoo)
+>>
+endobj
+3 0 obj
+<<
+/Type /EmbeddedFile
+/Params <<
+/CheckSum (45fb9a590a13d627d3ae9c8d9c929f1e)
+/ModDate (D\07220240729221725\05300\04700\047)
+/Size /45688
+>>
+/Subtype /text#2Fxml
+/Length 45688
+>>
+stream
+<?xml version='1.0' encoding='UTF-8'?>
+<rsm:CrossIndustryInvoice xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100" xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100">
+  <rsm:ExchangedDocumentContext>
+    <ram:GuidelineSpecifiedDocumentContextParameter>
+      <ram:ID>urn:cen.eu:en16931:2017#conformant#urn:factur-x.eu:1p0:extended</ram:ID>
+    </ram:GuidelineSpecifiedDocumentContextParameter>
+  </rsm:ExchangedDocumentContext>
+  <rsm:ExchangedDocument>
+    <ram:ID>RVL/2024/0019</ram:ID>
+    <ram:TypeCode>380</ram:TypeCode>
+    <ram:IssueDateTime>
+      <udt:DateTimeString format="102">20240729</udt:DateTimeString>
+    </ram:IssueDateTime>
+  </rsm:ExchangedDocument>
+  <rsm:SupplyChainTradeTransaction>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>1</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Agua perrier 330ml</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>150.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>150.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>150.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>2</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de barcelo dark series</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2200.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2200.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2200.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>3</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de barcelo dorado</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2300.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2300.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2300.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>4</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Blue moon</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>300.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>300.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>300.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>5</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Blood bag</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>500.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>500.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>500.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>6</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Beefeater trago promo</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>125.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>125.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>125.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>7</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Ambrosia</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>400.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>400.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>400.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>8</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Aperol spritz</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>310.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>310.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>310.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>9</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Apothic red botella</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2300.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2300.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2300.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>10</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>ARROZ BLANCO</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>1.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>1.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>1.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>11</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Arroz F. Camarones</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>1.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>1.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>1.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>12</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Arroz F. Pollo</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>1.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>1.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>1.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>13</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Barcelo blanco platinum bot</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>0.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>0.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>0.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>14</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Barcelo gran aÃ±ejo</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>0.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>0.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>0.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>15</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Barcelo imperial trago promo</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>130.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>130.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>130.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>16</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Barcelo imperimal maple bot</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>3900.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>3900.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>3900.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>17</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Beefeater pink trago promo</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>140.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>140.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>140.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>18</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de buchannan 18</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>8500.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>8500.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>8500.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>19</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de buchannan 15</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>7000.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>7000.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>7000.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>20</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de buchanan master</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>5500.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>5500.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>5500.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>21</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de buchanan 12</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>5000.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>5000.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>5000.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>22</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de brugal xv</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2400.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2400.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2400.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>23</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de brugal leyenda</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2700.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2700.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2700.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>24</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de brugal extra viejo</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2300.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2300.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2300.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>25</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de brugal 1888</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>3900.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>3900.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>3900.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>26</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de bombay shappire</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>3100.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>3100.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>3100.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>27</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de brugal double reserva</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2600.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2600.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2600.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>28</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de bombay bramble</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>3300.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>3300.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>3300.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>29</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de bulldog</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>4900.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>4900.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>4900.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>30</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de campari</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2500.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2500.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2500.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:IncludedSupplyChainTradeLineItem>
+      <ram:AssociatedDocumentLineDocument>
+        <ram:LineID>31</ram:LineID>
+      </ram:AssociatedDocumentLineDocument>
+      <ram:SpecifiedTradeProduct>
+        <ram:Name>Botella de carmelo rodero</ram:Name>
+      </ram:SpecifiedTradeProduct>
+      <ram:SpecifiedLineTradeAgreement>
+        <ram:GrossPriceProductTradePrice>
+          <ram:ChargeAmount>2400.00</ram:ChargeAmount>
+        </ram:GrossPriceProductTradePrice>
+        <ram:NetPriceProductTradePrice>
+          <ram:ChargeAmount>2400.00</ram:ChargeAmount>
+        </ram:NetPriceProductTradePrice>
+      </ram:SpecifiedLineTradeAgreement>
+      <ram:SpecifiedLineTradeDelivery>
+        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+      </ram:SpecifiedLineTradeDelivery>
+      <ram:SpecifiedLineTradeSettlement>
+        <ram:ApplicableTradeTax>
+          <ram:TypeCode>VAT</ram:TypeCode>
+          <ram:CategoryCode>S</ram:CategoryCode>
+          <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+        </ram:ApplicableTradeTax>
+        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+          <ram:LineTotalAmount>2400.00</ram:LineTotalAmount>
+        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+      </ram:SpecifiedLineTradeSettlement>
+    </ram:IncludedSupplyChainTradeLineItem>
+    <ram:ApplicableHeaderTradeAgreement>
+      <ram:SellerTradeParty>
+        <ram:Name>Revel Bar &amp; Kitchen</ram:Name>
+        <ram:DefinedTradeContact>
+          <ram:PersonName>Revel Bar &amp; Kitchen</ram:PersonName>
+          <ram:TelephoneUniversalCommunication>
+            <ram:CompleteNumber>8299205208</ram:CompleteNumber>
+          </ram:TelephoneUniversalCommunication>
+          <ram:EmailURIUniversalCommunication>
+            <ram:URIID schemeID="SMTP">adriii0104@hotmail.com</ram:URIID>
+          </ram:EmailURIUniversalCommunication>
+        </ram:DefinedTradeContact>
+        <ram:PostalTradeAddress>
+          <ram:PostcodeCode>10130</ram:PostcodeCode>
+          <ram:LineOne>Calle Virgilio DÃ­az OrdÃ³Ã±ez</ram:LineOne>
+          <ram:CityName>Santo Domingo este</ram:CityName>
+          <ram:CountryID>DO</ram:CountryID>
+        </ram:PostalTradeAddress>
+        <ram:SpecifiedTaxRegistration>
+          <ram:ID schemeID="VA">132477332</ram:ID>
+        </ram:SpecifiedTaxRegistration>
+      </ram:SellerTradeParty>
+      <ram:BuyerTradeParty>
+        <ram:Name>Adriano Capellan</ram:Name>
+        <ram:DefinedTradeContact>
+          <ram:PersonName>Adriano Capellan</ram:PersonName>
+        </ram:DefinedTradeContact>
+        <ram:PostalTradeAddress>
+          <ram:CountryID>DO</ram:CountryID>
+        </ram:PostalTradeAddress>
+        <ram:SpecifiedTaxRegistration>
+          <ram:ID schemeID="VA">00105652341</ram:ID>
+        </ram:SpecifiedTaxRegistration>
+      </ram:BuyerTradeParty>
+      <ram:BuyerOrderReferencedDocument>
+        <ram:IssuerAssignedID>Restaurant/0011</ram:IssuerAssignedID>
+      </ram:BuyerOrderReferencedDocument>
+    </ram:ApplicableHeaderTradeAgreement>
+    <ram:ApplicableHeaderTradeDelivery>
+      <ram:ShipToTradeParty>
+        <ram:Name>Adriano Capellan</ram:Name>
+        <ram:DefinedTradeContact>
+          <ram:PersonName>Adriano Capellan</ram:PersonName>
+        </ram:DefinedTradeContact>
+        <ram:PostalTradeAddress>
+          <ram:CountryID>DO</ram:CountryID>
+        </ram:PostalTradeAddress>
+      </ram:ShipToTradeParty>
+      <ram:ActualDeliverySupplyChainEvent>
+        <ram:OccurrenceDateTime>
+          <udt:DateTimeString format="102">20240729</udt:DateTimeString>
+        </ram:OccurrenceDateTime>
+      </ram:ActualDeliverySupplyChainEvent>
+    </ram:ApplicableHeaderTradeDelivery>
+    <ram:ApplicableHeaderTradeSettlement>
+      <ram:PaymentReference>RVL/2024/0019</ram:PaymentReference>
+      <ram:InvoiceCurrencyCode>DOP</ram:InvoiceCurrencyCode>
+      <ram:ApplicableTradeTax>
+        <ram:CalculatedAmount>12394.44</ram:CalculatedAmount>
+        <ram:TypeCode>VAT</ram:TypeCode>
+        <ram:BasisAmount>68858.00</ram:BasisAmount>
+        <ram:CategoryCode>S</ram:CategoryCode>
+        <ram:DueDateTypeCode>5</ram:DueDateTypeCode>
+        <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+      </ram:ApplicableTradeTax>
+      <ram:SpecifiedTradePaymentTerms>
+        <ram:DueDateDateTime>
+          <udt:DateTimeString format="102">20240729</udt:DateTimeString>
+        </ram:DueDateDateTime>
+      </ram:SpecifiedTradePaymentTerms>
+      <ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+        <ram:LineTotalAmount>68858.00</ram:LineTotalAmount>
+        <ram:TaxBasisTotalAmount>68858.00</ram:TaxBasisTotalAmount>
+        <ram:TaxTotalAmount currencyID="DOP">12394.44</ram:TaxTotalAmount>
+        <ram:GrandTotalAmount>81252.44</ram:GrandTotalAmount>
+        <ram:TotalPrepaidAmount>81252.44</ram:TotalPrepaidAmount>
+        <ram:DuePayableAmount>0.00</ram:DuePayableAmount>
+      </ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+    </ram:ApplicableHeaderTradeSettlement>
+  </rsm:SupplyChainTradeTransaction>
+</rsm:CrossIndustryInvoice>
+
+endstream
+endobj
+4 0 obj
+<<
+/AFRelationship /Data
+/Type /Filespec
+/F (factur\055x\056xml)
+/EF <<
+/F 3 0 R
+/UF 3 0 R
+>>
+/UF (factur\055x\056xml)
+>>
+endobj
+5 0 obj
+[ 4 0 R ]
+endobj
+6 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/Outlines 27 0 R
+/PageMode /UseOutlines
+/Dests 29 0 R
+/Names <<
+/EmbeddedFiles <<
+/Names [ (factur\055x\056xml) 4 0 R ]
+>>
+>>
+/AF 5 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Pages
+/Kids [ 8 0 R 19 0 R 23 0 R ]
+/Count 3
+/ProcSet [ /PDF /Text /ImageB /ImageC ]
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 9 0 R
+/Resources 10 0 R
+/Annots 18 0 R
+/MediaBox [ 0 0 212 737 ]
+>>
+endobj
+9 0 obj
+<<
+/Filter /FlateDecode
+/Length 2632
+>>
+stream
+xœí]ÛnÜ6}ß¯Ğs¬É¡$’€À^Û
+´@`y(úäÒ HŒ¤IÑ~~uÛw(ÊÛ]y¬ÄAâ]†"çr8ä3ÔÙÏ·¯²?¿fg›ÛÏÙëî÷æv¥Ö¶PíOVÿy¸5uŸ3«Üºıœ½ş´ú’}Y½X½¨şİş®Ÿı´¢R¯}ıCÕ×áWŸ—kÊó’êrÅ¿Öÿ¾_½ü)»_ÕMªµSšÈvQü{EÁ––ê¯¯ïWg-‡«Ë»ÕÙM™‘ÍîŞeºeªıu÷i¥‹êKÕéİ›ì¼âE?Ïî>¬tíJ¨-¡¾Ä´%z¬NŞ”}AÁJèÉB+®)±#­xhª\@•K^eÃû¹R®¡™¾iJ®ï*Ge•rb*Ëu×«VM¯ËÑre˜‘t_CkŞË%o£UV/fÂ#@¯¡M’°¶ßğ İB¯iÔ²F‘9MíyÁ'Ë££c¼vÛëe/7¼`Ã¹?@-ü½3øà„ ¤Ò„ Ô¯RÜMœ;nº)dÿ ±_sÂ@¹@XzÌÒãmâzzø‘yÆ‹5ûSb0^8<
+¸)O
+”z¡Ï3æ¡,˜y4çuLs0:`î¤bBs³Gè\½–a¯\É¸¦‰OƒX Fz9=8”¡×˜$½c–/p²áuı`K@|í1aàãŒ5€v@Ğ\2U:êlªTù.ax\ò‚ó4`ÖÃñ@/ĞFd˜^VX>:¢m™½âë¨™È #‚£eáE‘[d2 ZÊ€¨•Q+¢ND½ˆj%£ZË ©Ö2PªILµ‚Ó\N!8-„à´‚S+§NN½œz8%%§$Å{â>‘ÿ‰„8P$Äƒ"!.	ñ¡HˆEB¼(âF‘?ÊúQGì¶²×±½¸j)¸·»n3wAª/¹‚’vË³?§k¨âX•vyàGwD?§2öP»¹ŠA(u7¼•"!&}+£h8-ÒäÍj&– ¨ò7jı’İé[ÀÎVØŠ³ÜŸĞu'
+°ƒgBÚ·ÑJ¥ŠQÚ§ùxy
+ÌñOÉ#Êİ—ĞŒ›ÿF—[¡k®£™<:°CœÄò@ĞDP (ŒÄYphÇa6Àvà‘GÃº®Ì] Tâ"Dhó€9¬Q¦Á m^c>hWâÈUcİ<è–³¯@ûü‘•PÈËleØ+ªú2‰ ¤Ç Ô	Jã€ò;£…ÓŞC˜$ƒfMŒ9q*ä6=c¥gN”ªºæVÀd?~7²EgCÍ9sæ»HïÕ˜áòè‚FzÄ=:>©EìÜãœöõìY´ñÂ
+¸.àÈÂÊ?\nœo`ğ'­Á	‚Ó#ûœ*”û¬à.w|Ì˜dÔ{šÈğ"È¨w4QÈ€h)¢VD­ˆ:õ2 ÚÄ„H CË i"’Ó&&D¹œBpZÁi)§VNœz!8õ2pÚÄ„H CŠ÷$Ä}"!ş	q HˆEB\(âC‘'Š„xQ$Ä"!~”ô£fèvO³nºü±…ŞÌaOF3…	 Ã‹ £™ÀŸŒBDKµ2 je@ÔÉ€¨—ÑvP ZHÛ-@t˜¶[€èÈ…à´‚ÓBNK!8µBpê„àÔÁ©—ÓvP R¼'!î	ñŸHˆEB<(âB‘Š„8Q$Ä‹"!n	ñ£Ì 5Ãôš=+J×õÚ]Lˆ—çBºDĞCxfÆ“¡Ó» H òğL—ŞÅ8:»ıüê>;?ÏÎ.^ûûÕÇ»·ÿ~ËÎŸgÏŸg—W›j}µŞ^ıÄ¿şu3‡ûföäÔÅêLZƒ´;È©C&<ínë<Pß†¶·Ëâcõ5«mÃoûŞFATCD6C‡èŠòr@Ws½SÌCU³Öäs­m™×ŸóBy§ªUaõ¹TÖåF›=ÅM©»ùm¥²2Ê~©ş~È~ÿ£êóME×¡&'ƒRmÅ1‰Ïm"&»$ò&ÄÌCx:Ş?ÒF£F¡r¦İTù.P ‰8ğf
+dØæ!² È J"¹HBù#*Bş$"n×ı|cxÚS¸ĞÈaáÇ5˜Nw~â:nm±Ëƒ<sÌ(‚<âcdAšdG‘x)ºÆ!M-ò>‡@ˆÉ„]â„\¯tb9§ÃXéb¶j;Ã`Š{zÎMN±úJ´ šg7\—7ãT•Cs´À§v]zñ²¦WX:­|‰s’5?æ¤#H±¾“:'á#@$ÊGÚªˆÚh÷x^¦ÑÆëBvÏá£ôu—i´G.¬[»,`^ÀxÀ^æäF´ÔÛĞßQ¶8ÛPo!°X m(ö€ÿ|·Û÷›0òÓƒ—Z £äzFË^Õ¿—Ú2~€Š…üÃôVá2şÈŞ!Nè¼À´§ÀpX<nJÚ×Jâ\œ›´÷GøI§O§x/.ßzN–[ğÎXcO½3VøQÆ®ã\kÓàõv%9pP}À…x8°aW'rÍœT!Õ½—Ò2zÏßRzÏ!Üƒù},œ|GúÑ$¸€nØMá– ½L@[Á×/áKå
+¾1ù²½®¿Å<e4á2ß'®ãÆxØrºñ˜p\[±0ÎaÕ ÷ê&¯âÕâı2­v¡@°²:å¡£T‘4ÖÒ.×§ª®zş–h-ëƒ«ÃWÑoânâb )r!Ÿé‘½;Ã_‘0àNx¡–oàİ/ÏÂÕ×.ÑÄY»l¶CÕ¹¸}Jfà&P™ZÎÁ›°Œh4BÒı®Pú-ÉÉˆ¨XpÁˆ£şâIp-nğtpÇàràruØí‘í²YàÈ†šÙ ¸Ò»r‘à©ºh†^ğZc0ô¢·Ğƒq4V²/uNiÓ~„•:é´%@7´Z›JNÊŒgc›*l³îx¿µúf½öõíıÇÇğ?\¡×eåë*_•+şuÿ±÷«—?e÷ÉœÙc²t
+Q=H?>/ —º•=}Ô{zĞÜÚW’×àÙ×¶úDùÿ_’¿Œ<:±ï&s›¼­Dø×ÛÕ»I©Ö=l àÁÄõ ıuzçYğK&¼7
+’Ù*Ş”Àm0'S&e%yç.'Ì\ƒÛÁ7ßÓ;ÍS|à†/4p=Ã÷øcAAí¼v`yıö¶˜dpËàárÂä/òäé£exAú, Ö¨²¨ ¤·‰ò ^à0[À‘×–ğºP(Hß÷ËœLÑ¬|êÏ…sÍ×ú³WÚ×Kv÷Dºş„µÖÃ:MÜ›êê Ñ¨ƒ ¯‹†è>È€‚½yU ŒlÈHßˆ¦Õ­è4F†›Pnš—e:–º°·¨?Şš0µ Í^¬ş] E
+endstream
+endobj
+10 0 obj
+<<
+/ColorSpace <<
+/PCSp 11 0 R
+/CSp /DeviceRGB
+/CSpg /DeviceGray
+>>
+/ExtGState <<
+/GSa 12 0 R
+>>
+/Pattern <<
+>>
+/Font <<
+/F6 13 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+11 0 obj
+[ /Pattern /DeviceRGB ]
+endobj
+12 0 obj
+<<
+/Type /ExtGState
+/SA true
+/SM 0.02
+/ca 1
+/CA 1
+/AIS false
+/SMask /None
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /RobotoRegular
+/Encoding /Identity-H
+/DescendantFonts [ 14 0 R ]
+/ToUnicode 17 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /RobotoRegular
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/FontDescriptor 15 0 R
+/CIDToGIDMap /Identity
+/W [ 0 [ 366 509 438 400 201 204 514 450 279 513 518 201 270 433 455 456 538 526 464 471 542 204 410 568 466 471 456 490 724 426 589 464 464 464 464 455 464 200 464 464 464 457 470 464 341 228 455 438 464 450 464 539 225 217 464 419 162 287 495 445 521 464 742 197 410 391 605 493 ] ]
+>>
+endobj
+15 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QABAAA+RobotoRegular
+/Flags 4
+/FontBBox [ -613.76953 -225.58594 957.03125 879.88281 ]
+/ItalicAngle 0
+/Ascent 625
+/Descent -208.49609
+/CapHeight 0
+/StemV 40.52734
+/FontFile2 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length1 7608
+/Filter /FlateDecode
+/Length 5444
+>>
+stream
+xœY	X×µ¾gf$Ş"ƒ‹7!@€YBØw‹}GlŒ±Ølc³z­ƒ—&ÁxÁ[ìÄ‰—ØÙš`Ç‰ëö¥ãÔM._Óö¹K¾¤MšW¿~/FÃ;w$¨“´_óŞÌ7š¹sïÜåœÿüçœ+„72BXB
+J¢bn»tßŒâÕ°Ö¶¹õ…±_ÂçO	ñ5¶µ467ïÍÁ/üÂñ]\¾Xà¾(ËÍXlë°÷}rQ^åİ„À#¶.kãİ{ïâëïhìë&¹¤†eX^ÕÙØÑâW¦ËéØŞNXnì'"BD"¾Yé¼³ï“V? —óøafÉªÚ-gd‘dBfbÂÒ*™`°Ñ:.At«p…"R‚½ç¦ñYB%d)!
+…TÁJYOz²
+–õôT0Ç/2æˆ{÷ø…}¤€~v÷îÏønúÁcœÚñ±ã\ğƒ{ÌfÑƒkğ€16x@'‡2cg°ïGˆ?Î]!UJ1ro¹X"–€L	š]œ6V¬R29ü½ãpàİ® ƒ±–Ÿsüêş¦¬Ì´ô¡¿Á'¼Œ›¶Ô½ØSZæpx0Æ¤¶nC"CGX3û›ËcÿA(£ U°N«‹ÓÅi¼åŞ2™u8ˆN.fé 
+m°*>yuƒ4šÚšM£l^½H¯«ßp¿ŞhZo‹õzi_ß–íloO4ÀFû‡É»ŠJ@¡ˆÏ=Ï†@Zú–…½)ÉèšXv'ä©\ıè(ÿF/ÿÚÑ÷™+3ıXd®|*Ñ¤PJ5°lbB(áÏM”ÍR²Œ¨Ñ¢‘yá,½w%HŞ8÷`¥B;')¥rFoZ›££‹ôëÖ_çgÀ­+%à/üÿuÉ”¸éSnº¸hª<9U¹<ßÜ~Êbaâù<HLhıåˆ6¶ÚAåV=û6åD¢q^Á*±ŠÊ.§Æ	ˆeJ§$©Æ¤^rY¤V¹Jî%÷f/v³=¹«¬ÀÖşö¸:ÆR¢‹ŸTG•7®¬äVñuÙ©É+6ó÷@­öËè¼¼Ş=æ¬"µ:,,1-Ùd6ïæsõ^{&'$ÅDì8µœÕ",Ğ9 `4r:&DzH;9ÎæFÈ™â­vgÛæ…(Ç’Ù¿p+¹[¸51âLEæZËØ$§Õˆ%r¥
+KJ±*X£\¡Xî­a½ät™tÕ¥£~¼È9@IÑèPQ@`pm,ÖïÖ^-2—”¿Ønƒİı­ü‡Ëö@Š©kµIï%ƒ0SFHdVää4Y‰†Ç
+Í9¹¹I¦ô~zı®Fßkˆ_¶êëŒhòjµYYSÑ¦ŒÀÀX]pPd®1ÁE"&àú…ÅKS¬ëONM1ş×y%Ã\cb'øVnÚq–©tüÉQƒºìÅÖá(–x:1¦¢Šóv®5L1wF.ˆğñğö‰ˆËÙŸùùøúûúøùRùKf?ƒ/¸z"Ç‚L#SJ©€¼u2±Ñ¡•*µ-d=hU¾jc|[¬öÔ)®ş›·ãüıaÁ€Ôh´3Q›~Aû¢–™ºDlÈÑPE8;ÒşXJ»
+Å.§º€_“ÜpÑ1E%5¯Ùlê¨Úêşƒ-Í’n‰‰•&§ ¤$wÄDç›33CÃúû?ğÛÑº6^_Ss B¯ƒ²Ò©å‡KKéØ(6­åqšU(J×8‚TaIë)XÁN0«#jòôú•¬ÏÕñ<SÚ	!¡É!‘¬×@û‘³#‹ÖÌ¬·äbG“ìÎm_ëI {jB”º(%àÂ §6ø«bÀ÷2’T\œ»|SßÍ»[·]ß½Şk÷:.ËÈ|º¢JŠŸÚ™é[ßZ»&'€í=»u$#Ãf»v ¹ {ãíGoÚ{Iã82ê’ALQ–¥˜Ps7îåMçÊ~ü +Eü6×º‚¬vYQŒ\§‘z9u¦Ò	ÓÒj…’ÎK˜¥T°˜Bhj<qÊâ6ºvİù&KºĞº¯Ûdª:ÖØ4i4öÈÈë1™àŸ@oóÌşÍ-a!¹µ[L¦æõ#C?Æí€Ã[+ªè,ò—Fp2*)ÏH F¤´”tsÇÏm¬¥¶ïÕİ£±Ô÷½Ö½a2#³·7##3Ë¾1#~´£}]¢~xëëÖ%$ÂÈğOÜÆ«k¡¶æÌ“µ5PCmˆ²ñ—(ˆ%”Õ\<?ª„•j(SŠPAùÑ-›ÓR˜ÔÔş“Î¾ÚÖ
+ĞĞô"7™5²õìšF¶fd—0“ödŞ²oüÔ êıCnVğ²‚zj$*X69	¯4Èî„-÷u•ƒ³!`ÜQW
+™B
+­Bbf‰#¾à½™sCC=ÌSÃ´GŠ¨D”/Õ8Åƒ¨ÂÓi^:a	2•‹Í%2¯9dÅ’::ŸØ×Õ•d„¤¤®®ıû{º†c•‡**ØÊÊ‰Ã¥e,£»¼c
+²2·o{¾òÂ®]Ù™™µk×%æCûÆöw«î<Ú×ÓıSŠ´ôl´)b‡xÆ
+CêB²UÎék,MÖcGê&öJ,§[­¦ä®'Ò3÷õ$#>Ş²ÁÏ†‘­·D“eˆŠ£Ã¬8‚Œ“°o‹9 ˆÿ-8 ğï!ò,›bœŒÀ}ŠŒ ıœ0g0sMÉ˜F#ô¤0Ò~“5˜ıšØü _ßĞ¥R¥Ü§M]°ÌGªò–ùÊ}ş)©€¥Zïææç'æÅıCÄ•‰	 q÷ñ‘¸ÁòeÁ”sRQ/W!:êMÑhc]2ó–)]Î²ëœŸ65ÊÑÛéá‹[–zØ°ñ•Á¦Fv
+2²†7¥¤‚Étğ`yYXG×†l(°)()|l(=’’™å	Cû‘	bJËš;’M±ÚÚ\64<F“‘ny²²J­.)]×iB6×jªªÕÑ.¦YÑîW9¥#§
+æ¨lçğ+ˆY	@$²NÈÎ¶‚J<±¶\ï>	oÒM°;›{$‡† ÿÇ)¦¤A­Öh*Ï1æ°ÕÑéäâDÓ2åìÒT°ÖÉx(›¹ğÇk^6.„a#ªHjDÌ6ˆT÷>š–¡P@½å»O7ÔOjãŠË"ÕááöÙYÊ ä„Æ‰âÒ¨¨	.!¡¾".ö3£2ÀÏ'0 :*½sM>ö'GD%`Pàë¯ŠÖdoÉÎE=¥gš#"”ÄD#+¹SÎ ÁuI5\ôqÇŒZ±gfª¸é™2ö¶İ‹¤PÏ½MyùE¤Ò0õ“ü;ğšÇn}±Û€x° ¤DIs—Âµ8ñé)0…ØÅ :ÖRk¹ñ¶ÅÂÖZ¾£ÖÂLèâú6iu ×Û{âu,#â¿Ø±cëÖÙ[°`û6â¿\p£ª*«_ıû÷6PUy®ÂŒãà¸1XĞĞP+Ö^º$.8æ¥†¬ñrZ
+ãTJÈ°ÛL¦¬Ã¬_wâ\S#h´Öø¸vÛsçÖ¯Ÿ4%µw ’S7Û™ç >¾ş½¾nCÔTŸ(ÌÉ\•“Û~ª¾¡¶öé†=ÆÁízK´—?Ív"ŞrÙ­+â¤ZW9D*Ì…í¬«Ÿ:m™u«;s¢¾&p¼î±Œô}]h¯½78ÔÆ›¹ß4÷ÂæŸ³‡ª*ø¢~¨ªÀQzm:eˆ7'½ª(I²HRÌñêóûóó`âÌÅÄ‰'FªÖCiÉi&×ñ½[°ƒÙ7Ó/"H?tÎØ[÷×º"		¢T9¹O*!ÛuÇÎYÜÆ&,§NÖ[`Ò`ìy:5s¼Ë˜„s„-m"Âl„Á»Ü‘ò2ØË÷ïƒò2§{öïÍîE¸’yæpp_+wûÈÕj µZî_-©üñP©|ıü|YÉC!JD>Fl,£Y§â\iØ•~hœ¸ ;<ó8eQ&èì&Ó¤mıËÏ6YÏ¿Á4tÁ¶ô”ìº¤$Ô‰ıLÛZ¨¬zâÊßù)*/ÌÊÙChAd1E†´˜ƒj1RH%ÌgÏ>;éøYyÊñ)l^
+‡ø?‚o›3ó¦DAg‡ù3kwÆN4GoÌÚypßÑÅÆr­&8ã°ËNÙ§:³\Í ÃxvŠùÌq	ŒÜñ17½opµİçŠñÎ–BëÇ1M3<ó¥ãf£æK¶Ó/6ãŠggY3Êh%f8óÑ£“ÏzÉĞ˜EcY%dis.¦j—ÕiéëÌæ°pˆŠ(/İpyİÚÑQş+Óm­÷Ö¤&¯LMmnM2Ab"#KP")×ÕõlnjŒıÎwşÁ=yŠİÎ64ÜVGf¢Y™†Šp%Kf1cÂÎ‘cXùÄørG›(kVÂx‰I¥5ThğßãpcˆÊJ°$bé?³†¯ZÂ7¬€ÆBÆàïŒ¾]Î¯Â­o‘ø7ä¢õıûì>âµœË” ò©§'ª‘¬“Z5s.?Vˆ$Ï'1¼,¨jÃé¦Æ––—·´.şîbƒ¡i½1)5­£EÊ40–½üK±ĞÑù½7ÖÛªª®‹ÕBnÎ¶Í¹9 «èú…Ì×„|÷ÿÉİ…Ğóÿ’ÀçïC™|Ë,Ûãä©N”Œ»ŠÑiÍ%¿âô¯s,OıN+D¦®œ‡Nykù•öõÒú3GêZ[Ï]°Ùöíÿ…©i¾ÖºÖ`H2pW·s­m¯w@w×¥7º{ví¼c ó‹E_«£²õkj×äšóq4÷IEıHĞş‰¬RH€,»šg7œ†Û{àö)Çu8|’ø·¹éiğ&z=„­ãÈölâ§¦°¤Y1œGVü'öıkÒ£¨¯™-a­¢­D…XgÄ!Ø¯V#ûJ@6t­L©‹È(˜ÿˆ‹¾„h,,Øc6?ºøzk¬6^7<œ•­(-?80YQ…ÎÉhèî0%>_«	«(ÿÎîÊ
+éË¯x5ZŸ³gehbkÊc4¡¡Ñš”ÔÊ±²Š%Ç-jl<İk4b°ìÊëaçw!tÎmˆî†ÉÉbğ}?»_‚ã-ü™ùŸfáw;ş‹®Ògv1 y™ò \%,WÑ]iæ†…}aè°ïÙ\Š	:ĞH€)I©~4Â®‚“ê%NâvŞÜ»×œ¿/6Î=du~HèõëìâM–ı…°h@‚qsqı¦™/èˆÙ8××ÌûPÆ$b^c96°æíÛûØ·¶÷Î±´ÛŠœmQ¯‘ŒÑ¡8¾}»3¦õ÷ñq¡°ÿ1·YIñ¤ˆq…#
+ˆ˜‚k?èé†®®wùÿ„•Ã™i i›øá—|7İÚröbCıvCÒ[J
+‹ªE{mt±w²+Ss•”Ç<´_Å>„!]£$&ÈBØtµº¨.^ĞŞşÂÅ¶õ§m(Œ°6˜²6@rJ[›Éd4tÚĞÍÿ©V§ˆ×YjãuúDv¤:;Kf6[Z,¸±šBC²²ª'ªñp¨[R’MÉk×&&&ZYèô=–CÊ§’ß)ºÄÅ,µÊå‡æöÓ„„Ó‚°b!v\ª
+v|$B¡q2ò¼ïŠ›§'op¡[§õV.:» ªúàáğˆ„„¤M£t¡&º°°25..uµtÀ’˜ zd÷cü'g·mËËs_dèï?Ÿ——§Y[V^şşøxn‡‡¥æØÑ¾÷Ô9Ù3S¹šˆÈ•*ul¦'Ş±÷f¡—kj8÷¸‰–.åcŞ”Æ8¤?÷,@qÉ‘#?¾}ğPQáÒ¥+^2¬ºtáÏ¿åk³¥şü%şÖ&“	ÂCİà¤µ‘3ûÿ$Ğ=ÈEd9Eƒ‚Ñ:s(©°Ö‡÷â¼àÍjß¿ÿğñwîÉ…G¢ävÎxò3Kúİ 3¸ö¯Ÿúc‡º€ô4zğ¤FÉ"©¡uüáşç ~ñöû—AÍÿü2c€>‡"şü¦é·Kù'Ù¥øí#Îıj±R¥ÒÊ©^¨yOşä4?^úÊ
+}ØšˆÕËø«Ïş9ùàóß²ƒìª•¥µl?ÚMÅìŸ¹ƒBˆÙS.1;ó}àx½œœË÷ã´óÎHÁsÊ\#í<¤çâ=¹L¤yEfFg'&ç¶Ì¬AFC IÆÀ@ødettdffd­§u,T&%_SÁV²w:²22³{;…½‹»8%,,4$;)yõêÕaIql_'vf:ë)©Ø 4;	o–iÓ±Wt(­P”ôÁw¸b:şîğ[ñıìs\Âƒ›\ÂvB¥*\%W¯Ü©_b¸Oÿ8úúè@»AîGºüCï2R¶øclqRtIèéá#ù)áüÈ(»›˜ÙâGÉ6x=Z0c§H“Bì\ )å"ÉÖõ2DÂ’5ìó¤—}ëÊ‰•K"rvš²ï’|®Û=CX3Éá"Mì[¤€¾§mÙ¿‘4Ñ]¼w“îMìÿ*Ù‹W^fü¾ûì¡w8Bºñİ¼ÂñJf/`Ûw„ö%Ì5²î’•B[:ç«d„Îï\‘Ãmr®“>,×²ØWña
+Ië Ù˜…q±B?Ñ©„ƒ³ïà<XYÊıT°_R}HRO‹ä<@&4ÀMø-#fÂ™vf/s™ùœåØ,ŒV/³7Ù_q
+®ÑúgQšh³è–èè¾8Z<(¾(¾+Y 1Iº${%'$¯JŞw[îæïVévÔíC÷Õîî»»_öp÷öHğ¨÷èõØéqqlÁ‰wÜ_è½ptá1—ŞÓI5õ%®Ò×7ÒŠìz&RGˆëĞ»Ô¹ÌIÚ]ÏìCï¹‡Eåö¹Å˜%u=/&¥ä{$t‘n²™l ëÈZÒFìdúV5‰ÆsÉÂÚ.|o#-XÊ!ÄŠ\ERğïÅó_mJ-xoÁ¾ÅßflYŒ_7áeÇ‹Ö®ÅÈÀF±E¹Ğn#~ß…½Ò1#qDrBâüt_ù>âk=ĞQí8÷…ç&áŒÄšn¼¬XÛ‚¥.l·km8ßt
+óÛˆoòq5i$ù§#„ñÕÿ>(/ƒ
+endstream
+endobj
+17 0 obj
+<<
+/Length 833
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0000> <0000> <0000>
+<0001> <0043> [<0052> <0065> <0076> <006C> <0020> <0042> <0061> <0072> <0026> <004B> <0069> <0074> <0063> <0068> <006E> <0043> <0056> <0067> <006F> <0044> <00ED> <007A> <004F> <0064> <00F3> <00F1> <0053> <006D> <0073> <004E> <0031> <0030> <0033> <0070> <00FA> <0062> <003A> <0032> <0034> <0037> <0046> <0045> <0039> <002F> <002D> <0075> <00E9> <0035> <00E1> <0036> <0041> <0049> <002E> <0024> <006B> <002C> <0066> <005A> <004C> <0050> <0038> <0040> <006A> <0078> <0079> <0025> <0054> ]
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+18 0 obj
+[ ]
+endobj
+19 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 20 0 R
+/Resources 21 0 R
+/Annots 22 0 R
+/MediaBox [ 0 0 212 737 ]
+>>
+endobj
+20 0 obj
+<<
+/Filter /FlateDecode
+/Length 1853
+>>
+stream
+xœí][Oä6~Ï¯ğs%†ø’‹%„TªÔJˆ‘ö¡êbw[­´t·j~{&vÎ7g`<€€ŒÉÅç;>ß9¶ÓŸïîÙŸßÙéüî{Xşßeù¬*rûÅÚï¿ ‰å1«òzfÙÃcöÌ³Ûì¶ùıœÙëîæ¿5Gÿ2Á~i~¾°ßÿh
+?.OjOxÌDÉgºıÍÇ¯şG­Ê™PªmyN?¶¿ÿÊ>üÄÚ§Íêœ!¯ÍsûŸO¼K›jn¬Ú
+‰|Æ…VœW¥jU‘ë:—º=.óªV’Köıá);µfcÎxäó‹z¹ÈNoJÆ5[|fÜjÊşY<fMé	R±ÅGvÖh¨<g‹/7ÿµ%•)Ñ® 6…+¸2µ+´@™ÕpIoZ3„¢gĞ{`Ånh­Øò±×‹¦mÅªŠ¢^! ¶G`NUsI/¡‰kRÀí=¸ÚB7¨ÎyÔ@Wª×è9E‚Ä9…-Y@!ˆUsjÕÜªs's¹Ş$c±”=AC¯Cm)?uèº¯Û¾Èi§wßîŸØÙ;½xøñÏı×Å§ÿ~°³sv~Î.¯æÍ]ªU °æf×¿ÎcßR·îL'/ÊÁ‡Àc¼hÌ@K®†jÏ/¨8Ey³ÅX¶¾ªkZ©ú*g;Éú*=¨¡ƒ×¡õUuuê°¾Ê©c¾ŠŞ,v_%Uù.¾*jLªÁnvŠ°w jĞ ¡‡G‰{xA‡1À!¨B«Aœ©À¡²"—Ø¸xg‘	ºø¢O9	ºøBoÖ¡àëU––á*1ùÀ¤Ø³_Y3„7ài¢†­Rãå1X
+8¦9¬é,0=?ÂeŸbô#ªê‰nCZë—Ne—!Ç’¦§)òlF´)(7\\	33 4œ ‘UüªoĞ=Ù47x,}×ÆÓãrÓ'ğŒ8A./ôf
+ˆbÒdêR2õPˆµ‰e!²Ï‹Ã¼H½>ÊÆº
+h 
+“øØ‘‚3ÂÙP¾pÚºŠgËº]{MuMíd‚¬k"h'â²Åmˆ e0`N“—K¾J5šxù50ªUS;d^»¹^ví5Q^ö2U^v"
+jê8²q¬¼\gãN¼<Fİ5µığòfRU¢uÃcì@;"+Ö­Téæ[·R¥œlİJ'"óS¸¿²õbr+»€±ŠÃ­lİ‹2jX»æ™({ö—*;Ã4|¬Ñ}Í;N4ü
+İêX)HgqL nŸ‰©rª‰˜Pt/Q’õ¬+U’u"
+Z}$Ùàc¢$['‡L$;F·¬á}H6œÅ§8Õ(2j"îËÜeº© –¹Ë”SA,sw"`nÚH„¹µ˜’Ev£LÙsQC¼<6W0jœİš1IåƒÔÎ$–";MÔy”ª#r"pDÁ…KI:"ÑTrrD;€Q¼³#JAÄ
+kKÃ^óL“†}ûK”†=§e>ƒüQLIŠ»€±LR±V©›‚´†‰îbl?-KF¬ä‚îLÜÍÄº•"íKŸO’u+nÉ [ÁTãp+\Nne0–ƒneOÑ=”±³ì ß-r3Ş®·á]5à0˜÷Pœñ]Î¦õ]i¥ê»œˆá‘)	1Ùqø.1­ÛÚ	ŒÃë¶¥K$Êñƒs¸`&æY‰/3óù#U7âD1²v¤BëÉ¼F)äıáz€ FáşK¡]ÓJ•Bí$K¡ˆDºÿÉ‰NNóİ{£)	ØÏßM±-U*(1yfI's(°¨y[]ÒAÛŞ„^Ã5\cMŠØÎš¯^Ñ”¼äİŞÛ/W¿”}rjÒK_¶v¯d{Éö¸GªO'õ‹Ô)…·;yL‚¼^;6‡Å	%­Í²g²©}-ıª_ch¥ ¶x‰*„*×©bßµîpùîµç¥œÜÈÚ4'ÙŠ ÛW£mÃÆ9¾ÏÍ¿[ïÍnş?zïx«>+›@=×æ¥näcÿ²±o{Û¡HoÕVúÑªØ^Ú»<ö_­WôõÀµ¨gºAàÉG{úHü_[åMì1òÙÆÒ„®ÿş”}6¦ñÕŞE<"´çW][È[‚!SŒË  .@â²ğ%à»!;“ ç~{B° *6b¶bİk:ÊÉáÎò˜¹AÚ5„ˆyèõ†0DgûoÒ0‹¦»×£bŒĞH£€É*{j¸ <%†ó[ááØc60ÁJ}x
+à²„÷Ãø(d³Àâ(€›<¥ß=›)!Óm‹º6ÛcİÄëmW”¼5|şˆ¾ïvİù7ìzÒåJÉ9·$…'±ƒ;:cr4œŞø@tU¥‡Qo‰èêZ^]q'és‹TÑúÿš$ö‚úİÅ„¡ ”İfÿµòÿ‰
+endstream
+endobj
+21 0 obj
+<<
+/ColorSpace <<
+/PCSp 11 0 R
+/CSp /DeviceRGB
+/CSpg /DeviceGray
+>>
+/ExtGState <<
+/GSa 12 0 R
+>>
+/Pattern <<
+>>
+/Font <<
+/F6 13 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+22 0 obj
+[ ]
+endobj
+23 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 24 0 R
+/Resources 25 0 R
+/Annots 26 0 R
+/MediaBox [ 0 0 212 737 ]
+>>
+endobj
+24 0 obj
+<<
+/Filter /FlateDecode
+/Length 1357
+>>
+stream
+xœí[YkÜH~×¯èçkú’ÔÆ°3±]03°Ë>ç"Ä&³É’üüUK=:ê“Ô’ç@ÆÆc©ÜGİ]U]^¼]?°OßÙbµşÆıïÕ:âq–ğò‹¹ï«&ÀÄÒ?³Œ›¸|fOÑ–m£ûè>ÿÜFå¼õêÏüé'“ì]şó…ııO|ï¹O‘LElİ—Ì_¿6_­Nc©u*œÓW÷ù9úë7öìv‹R*)L±oûıJ+ch‡f µm´ãF9ğûãs´(ù4u'Ád’¦LXËû÷Cô1_ş`‹ËœéåòBaù÷T‰câ^,ÁqÏ¸>&îÅòç‚ûıÔeúñôC^a¹‰wÎÌÙæcYá0Ë_›§(aW21†mŞ³kÎ•¾a›/9{€X QC¤,!¼£(„›’Ö€”«ØĞßĞK2‚ßÁ¾t˜3†yëRl9J 2ÅÏ¡X¬¿=<³ëk¶øıñÇ_7~ı`×7ìæ†-ß¬"WÛEP'Ôí«èvÓt±V‘¥Ú=ë„[Ã•uÏ)ÏŒVBµvÄø°9OÜtĞØeîšZÄĞ^ê•D¥İ
+ ë”éŠ2]•j¦Fğàt[I§x@!³ùñŞ9Zz>ß…èÕ^İå ã5h4ğ”B`’XÎ™m¥ÊÖŒÛGeçJ¢2Ãº!)=`ORĞ)K
+È‚öDGx@Û0,IEôºqÇQ'WCôŞ'ğ±p:ÛÃ¦fØùZnE"8qtó`¹`Ûp¬ÁˆI–;®ÅªÁ6ÃmœVeä®%L@4
+#¨PüâƒFCmR÷O™ ¿-‰ÉÂŠ)N]‚º1wÉ«¢~æ$owq¨ä!l7ıræÔ²^"xÂÛpŠ™ßfFïpÂ&9{'\‘xqÂc¬LV×|Ê	"yËJó±Ğ1iÄÂ;’öˆ/Lí!©
+qçgR•æ/Ùˆí5ÍÆÉK”Gªú…9³:S-:}HÓ,PPåÅ!;ÈDNg²‹Óû`0cFbiQü +­¨×Æ € Š“§ù]fÍÆ|vOø‡	ˆwòÈ ˜´xåğ¹ò$Ó-İÂ ë•×j¥Pmã9Ã¨Yg-Ã5FŒ‰ƒ€×®¥ñgââCÀF[YS8¹§şj˜¯#òØ†Néc´	®1WQ”®»RésuİµÍ­ë®Hq=µ‰»îS_EEDÚ¸+7  òlÚ“€Ù:.}æÜ½$y»NFşê)¯“¦ãè†Rmqjï·pØ¡E oB1d¢¬U#Q!G]éÙjŠO]A›ZPĞi—œNu%”‘ÍÍ[O§(hÍuM9ÔÔîCÓÍÕZ­ÓÍ?´š¨M"â”KÁmÑ5M^ÛÓF·S¤c°j’|¬N ·ÊS»w=iËAXib›s^Œ'¯åğ‘üßå}ÜıŞ…¥I›MéÃ}Úqy¶>×EÕİI×÷Í ^‡/¹p
+œúS/äûŠ]z Ã)  n!§„kè`zß‘˜B2ÔĞLbí¾Kf¨2ñ,NòDQË>Î`ƒ ê	wúRh€  ÔÈÇ„0ÂS•EA[ ìü Z ª:]}=íCM% €E{v!íhZª¤ÈaİsbLñêmé»$–´£…ÇÈš§m:œäŞõj ×HQ6`¯2hˆ§UY˜²´Á#¯sÅÕ$\±C«ÇÜfJûï¡nÎc º€5€²ûèfÖQx
+endstream
+endobj
+25 0 obj
+<<
+/ColorSpace <<
+/PCSp 11 0 R
+/CSp /DeviceRGB
+/CSpg /DeviceGray
+>>
+/ExtGState <<
+/GSa 12 0 R
+>>
+/Pattern <<
+>>
+/Font <<
+/F6 13 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+26 0 obj
+[ ]
+endobj
+27 0 obj
+<<
+/Type /Outlines
+/First 28 0 R
+/Last 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Title (Factura\040de\040Crédito\040Fiscal)
+/Parent 27 0 R
+/Dest /__WKANCHOR_2
+/Count 0
+>>
+endobj
+29 0 obj
+<<
+/__WKANCHOR_2 30 0 R
+>>
+endobj
+30 0 obj
+[ 0 /XYZ 17.25 565.25 0 ]
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000000010 00000 n 
+0000000063 00000 n 
+0000000117 00000 n 
+0000046018 00000 n 
+0000046155 00000 n 
+0000046180 00000 n 
+0000046365 00000 n 
+0000046478 00000 n 
+0000046600 00000 n 
+0000049305 00000 n 
+0000049474 00000 n 
+0000049514 00000 n 
+0000049607 00000 n 
+0000049750 00000 n 
+0000050237 00000 n 
+0000050472 00000 n 
+0000056004 00000 n 
+0000056889 00000 n 
+0000056909 00000 n 
+0000057033 00000 n 
+0000058960 00000 n 
+0000059129 00000 n 
+0000059149 00000 n 
+0000059273 00000 n 
+0000060704 00000 n 
+0000060873 00000 n 
+0000060893 00000 n 
+0000060958 00000 n 
+0000061068 00000 n 
+0000061111 00000 n 
+trailer
+<<
+/Size 31
+/Root 6 0 R
+/Info 2 0 R
+>>
+startxref
+61153
+%%EOF

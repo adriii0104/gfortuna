@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <!-- Add Custom Fields in POS Config -->
+        <record id="inherit_view_pos_kot_print_config_form" model="ir.ui.view">
+            <field name="name">inherit_pos_kot_print_config</field>
+            <field name="model">pos.config</field>
+            <field name="inherit_id" ref="point_of_sale.pos_config_view_form"/>
+            <field name="arch" type="xml">
+
+                <xpath expr="//h2" position="before">
+                    <h2>Allow To Print Kitchen Order Receipt</h2>
+                    <div class="row mt16 o_settings_container">
+                        <div class="col-12 col-lg-6 o_setting_box" title="Don't turn this option on if you take orders on smartphones or tablets. Such devices already benefit from a native keyboard.">
+                            <div class="o_setting_left_pane">
+                                <field name="kot_print"/>
+                            </div>
+                            <div class="o_setting_right_pane">
+                                <label for="kot_print"/>
+                                <div class="text-muted">
+                                    Display Kitchen Order Print When Button Enable
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </xpath>
+            </field>
+        </record>
+        
+    </data>
+</odoo>

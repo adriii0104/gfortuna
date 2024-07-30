@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+
+	<t t-name="PrintKotButtonScreen" owl="1">
+		<div class='receipt-screen screen'>
+			<div class='screen-content'>
+				<div class='top-content'>
+					<span class='button back' t-on-click="showScreen('ProductScreen')" style="background-color:#6EC89B; color:white">
+						<i class='fa fa-angle-double-left' style="margin-left:5px;"></i>
+						Back
+					</span>
+					<span class='button next' t-on-click="nextScreen" style="background-color:#6EC89B; color:white">
+						Ok
+						<i class='fa fa-angle-double-right' style="margin-left:5px;"></i>
+					</span>
+				</div>
+				<div class="centered-content touch-scrollable">
+					<div class="button print-coupon" t-on-click="print_coupon">
+						  <i class='fa fa-print'></i> Print Coupon
+					</div>
+					<div class="pos-payment-receipt-container" style="text-align: center;">
+						<KotTicket count="props.count"/>
+					</div>
+				</div>
+			</div>
+	  </div>
+	</t>
+</templates>
